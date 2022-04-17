@@ -1,1 +1,1 @@
-# tugas-provider-json-php
+Maaf pak, saya ada kendala pada saat melakukan hosting, saat saya hostingkan json nya tidak muncul. Tetapi pada saat saya jalankan lewat xampp localhost di firefox JSON nya muncul. Maka dari saya juga sertakan link github yang terdapat tampilan Secreenshoot pada saat saya jalankan lewat xampp localhost di firefox
